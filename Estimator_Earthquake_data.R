@@ -19,4 +19,4 @@ L[i]<-max(ecdf(mag)(mag[i])-ep,0)}
 
 lines(mag, U, col="blue")
 
-lines(mag, L, col="blue")
+lines(mag, L, col="red")
